@@ -1,0 +1,10 @@
+﻿  Ball.cpp
+  Game.cpp
+  Paddle.cpp
+D:\Documentos\Sault College\Computer Programming\22F\CSD215-PROG PARADIGMS\Assignments\Final\programming-language-project-Rcoleto-coder\src\PongClone\Paddle.cpp(22,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  PlayerScore.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 126 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PongClone.vcxproj -> D:\Documentos\Sault College\Computer Programming\22F\CSD215-PROG PARADIGMS\Assignments\Final\programming-language-project-Rcoleto-coder\src\PongClone\x64\Release\PongClone.exe

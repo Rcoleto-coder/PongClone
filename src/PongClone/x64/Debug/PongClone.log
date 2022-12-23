@@ -1,0 +1,8 @@
+﻿  Ball.cpp
+  Game.cpp
+  Paddle.cpp
+D:\GitHub Repositories\PongClone\PongClone\src\PongClone\Paddle.cpp(22,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  PlayerScore.cpp
+  Vec2.cpp
+  Generating Code...
+  PongClone.vcxproj -> D:\GitHub Repositories\PongClone\PongClone\src\PongClone\x64\Debug\PongClone.exe
