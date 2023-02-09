@@ -1,6 +1,6 @@
 # A Pong Clone Game
 
-To celebrate the 50th aniversary of the Pong game, I decided to make a clone of it in C++. The game is a two player game, where each player controls a paddle and tries to hit the ball past the other player's paddle. At the current level of implementation, the game runs continuounsly until the "ESC" key is pressed or the window is closed. The game is played on a 1280x720 window.
+To celebrate the 50th anniversary  of the Pong game, I decided to make a clone of it in C++. The game is a two-player game, where each player controls a paddle and tries to hit the ball past the other player's paddle. At the current level of implementation, the game runs continuously until the "ESC" key is pressed or the window is closed. The game is played on a 1280x720 window.
 
 ![](PongDemo.gif)
 
